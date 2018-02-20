@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Musings of an Aspiring Developer 
 header-img: img/home-bg.png
 email: lamia.haider@gmail.com
 copyright_name: helianth
 description: > # this means to ignore newlines until "baseurl:"
-  
+  I might mostly use this to give myself pep talks 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  helianth
